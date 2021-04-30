@@ -1,3 +1,3 @@
-*.wasm
-*.wasm.map
-*.asm.js
+# *.wasm
+# *.wasm.map
+# *.asm.js
